@@ -1,5 +1,6 @@
 Hi, my name is Rodrigo Rodrigues Marcolino. 
 I'm graduated on Production Engineering in 2019. Since then, I dedicated myself to learn a computer language to upgrade my skils and stand out on this competitive job market.
+
 Here I upload every course, challenges and projects I did envolving python. My best skills are in Machine Learning and Data Science, but nowadays I'm loving how web development with Django can build powerfull apps on internet.
 
 
