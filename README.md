@@ -69,22 +69,13 @@ Here is a curated showcase of my main projects, representing full-stack developm
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DigoRM&show_icons=true&theme=tokyonight&count_private=true" alt="Rodrigo's GitHub Stats" height="195px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DigoRM&layout=compact&theme=tokyonight" alt="Rodrigo's Top Languages" height="195px"/>
-</p>
-
----
-
 ## 💼 Let's Connect!
 
 I am actively looking for **Software Engineer / Automation Architect / Data Analyst** opportunities, both for full-time corporate roles and high-impact contract freelancing. Let's build something exceptional!
 
-*   **📧 Email**: [rodrigo.rm.dev@gmail.com](mailto:rodrigo.rm.dev@gmail.com) *(Placeholder - please replace with your actual professional email)*
-*   **🔗 LinkedIn**: [linkedin.com/in/rodrigo-rm](https://linkedin.com/in/rodrigo-rm) *(Placeholder - please replace with your profile link)*
-*   **🌐 Portfolio**: [DigoRM Live CMS](https://github.com/DigoRM/portifolio_carreer)
+*   **📧 Email**: [rodrigormarcolino@gmail.com](mailto:rodrigormarcolino@gmail.com) 
+*   **🔗 LinkedIn**: [linkedin.com/in/rodrigo-rm](https://linkedin.com/in/rodrigo-rodrigues-marc) 
+
 
 ---
 
