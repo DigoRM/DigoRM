@@ -27,13 +27,6 @@ PerformaCX is a high-performance, interactive analytics platform designed to ana
     *   🚀 **[Live Web Application](https://mr-marcolino-cx-performance-movi.hf.space)** *(Hugging Face Space)*
     *   📦 **[GitHub Repository](https://github.com/DigoRM/CX_performance_movi)**
 
-### ✉️ 3. AutomateEmails · VIP Outreach & CRM Ticket Automation Suite
-AutomateEmails is a sophisticated full-stack React and Node.js application designed to manage, review, and automate high-volume bulk email outreach sequences and Helpdesk ticketing.
-*   **Core Function**: Integrates directly with Helpdesk REST APIs to proactively create resolved tickets, inject custom tags, and link customer profiles via private internal comments, while running a rate-limit safe delay queue scheduler.
-*   **Value Delivered**: Resolves a major workflow bottleneck in a legacy ERP ecosystem. Instead of agents opening dozens of browser tabs to analyze player records, the app aggregates financial history and executes personalized campaigns in one place. Eliminates manual post-contact spreadsheet logging, allowing operators to export data directly to financial impact worksheets, improving operational scalability.
-*   **Links**:
-    *   📦 **[GitHub Repository](https://github.com/DigoRM/AutomateEmails-HelpdeskAPI)**
-
 ---
 
 ## 🛠️ Technological Arsenal
@@ -43,15 +36,15 @@ AutomateEmails is a sophisticated full-stack React and Node.js application desig
     <td valign="top" width="50%">
       <h4>🖥️ Full-Stack Web Development</h4>
       <ul>
-        <li><b>Frontend</b>: React, Vite, Tailwind CSS, JavaScript (ES6+), HTML5, CSS3, Streamlit</li>
-        <li><b>Backend</b>: Node.js, Express, Python, Flask, Gunicorn, RESTful APIs</li>
+        <li><b>Frontend</b>: JavaScript (ES6+), HTML5, CSS3, Streamlit</li>
+        <li><b>Backend</b>: Python, Flask, Gunicorn, RESTful APIs</li>
         <li><b>Visualization</b>: Chart.js, Plotly Express, Plotly 3D</li>
       </ul>
     </td>
     <td valign="top" width="50%">
       <h4>⚙️ RPA, Automation & Data Science</h4>
       <ul>
-        <li><b>Automations</b>: Headless Playwright, Puppeteer, Selenium, MS Office Scripting (PPTX/XLSX Gen)</li>
+        <li><b>Automations</b>: Headless Playwright, Selenium, MS Office Scripting (PPTX/XLSX Gen)</li>
         <li><b>Data Science</b>: Pandas, NumPy, Scikit-Learn</li>
         <li><b>PDF Generation</b>: FPDF2, html2pdf, Pillow</li>
       </ul>
@@ -69,7 +62,7 @@ AutomateEmails is a sophisticated full-stack React and Node.js application desig
       <h4>☁️ DevOps & Tools</h4>
       <ul>
         <li><b>Cloud Hosting</b>: Hugging Face Spaces, Render, Vercel, Heroku</li>
-        <li><b>Environments</b>: Git/GitHub, npm, Docker, pip</li>
+        <li><b>Environments</b>: Git/GitHub, Docker, npm, pip</li>
         <li><b>Workflows</b>: Dynamic Env Variables (.env), Anonymization, CI/CD</li>
       </ul>
     </td>
